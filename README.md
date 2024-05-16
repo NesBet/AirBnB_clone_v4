@@ -179,11 +179,7 @@ The available nested routes are:
 No known bugs at this time. 
 
 ## Authors
-* Alexa Orrico - [Github](https://github.com/alexaorrico)
-* Jennifer Huang - [Github](https://github.com/jhuang10123)
-* Juan Esteban Duque - [Github](https://github.com/Juanesduque1)
-* Felipe Villamizar - [Github](https://github.com/felipevcc)
-* Andres Solarte - [Github](https://github.com/Andres98100)
+* Nehemiah Kibet - [Github](https://github.com/nesbet)
 
 ## License
 Public Domain. No copy write protection.
